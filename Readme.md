@@ -1,10 +1,10 @@
-#RoofTop Coding Challenges
+# RoofTop Coding Challenges
 
 Hi, If you have received this test then we're likely in the process of chatting with you about a Developer role at Rooftop. In order to move forward, we'd like to know a little about how you work. 
 There are folders with different skill-sets we are hiring for and each contains instructions that can demonstrate your skills and abilities in the perticular domain.
 These are NOT coding exercises. The goal of these exercises is to give you an asynchronous medium for demonstrating how you would break down a set of user stories and requirements into something akin to a rapid POC/spike. There is no grading or scoring, nor is it pass-fail, rather these are meant to serve a sample of your reductive thought processes as an engineer.
 
-##**Why These Exercises?**
+## **Why These Exercises?**
 
 We know that the technical hiring processes in our industry are generally broken. We also know that there are mixed opinions on take-home exercises in general. The primary reasons we ask candidates of all levels to complete these exercises are as follows.
 
@@ -14,7 +14,7 @@ We know that the technical hiring processes in our industry are generally broken
 * It eliminates the performance anxiety of forced-pairing with someone whom you've just met.
 * It allows you to use the tools, languages, and frameworks where you are the most productive.
 
-##**General Instructions**
+## **General Instructions**
 1. Read the instructions carefully and ask any clarifying questions either via Github issues or by emailing hr@rajasthanstudio.com
 2. Create a new private repository for your exercise
 3. Complete as much of the exercise as you can in 3-4 hours or less. Unless otherwise specified in the document

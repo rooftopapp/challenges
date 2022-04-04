@@ -34,4 +34,3 @@ We know that the technical hiring processes in our industry are generally broken
 
 When complete email a link to the repository and any special instructions to hr@rajasthanstudio.com
 Sit back and relax. We'll review your submission and get back to you as soon as possible.
-# challenges

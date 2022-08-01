@@ -15,7 +15,7 @@ We know that the technical hiring processes in our industry are generally broken
 * It allows you to use the tools, languages, and frameworks where you are the most productive.
 
 ## **General Instructions**
-1. Read the instructions carefully and ask any clarifying questions either via Github issues or by emailing hr@rajasthanstudio.com
+1. Read the instructions carefully and ask any clarifying questions either via Github issues or by emailing hr@rooftopapp.com
 2. Create a new private repository for your exercise
 3. Complete as much of the exercise as you can in 3-4 hours or less. Unless otherwise specified in the document
 4. Be sure to include the following in your submission
@@ -32,5 +32,5 @@ We know that the technical hiring processes in our industry are generally broken
 6. A super-simple test suite if applicable (even one test is a bonus)
 7. Some form of lightweight technical documentation (code comments are fine)
 
-When complete email a link to the repository and any special instructions to hr@rajasthanstudio.com
+When complete email a link to the repository and any special instructions to hr@rooftopapp.com
 Sit back and relax. We'll review your submission and get back to you as soon as possible.
